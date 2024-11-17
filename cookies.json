@@ -1,0 +1,262 @@
+[
+  {
+    "name": "_pxhd",
+    "value": "rRCowlSgZPoYRv6ZDz4a-mYunLpdQybOhjmxhcQKtWGzQrBbETAkOiEuVNxqV0XUYuTuvNftKMI6pRfR4kng8w==:I20047hwOYKd-IPvvpDmwjyAe5ugXaYUlgoSaFzTFsTRHkm5yE5iZZu5MthL8QDS9eAP7-nnMCqgw2H9cUaU9NxwbM8EjMmC4Gt9l5P5ay4=",
+    "domain": "www.skyscanner.com.br",
+    "path": "/",
+    "expires": 1762810843.749657,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "jha",
+    "value": "CAISaAistcS5BhIIMjc5MjA5NDYY3dDEuQYgACoCQlIyBXB0LUJSQgNCUkxSB3Vua25vd25aBmJhbmFuYWABaABwAHgAgAEAiAEAkgEGY29tLmJymgEVd3d3LnNreXNjYW5uZXIuY29tLmJy",
+    "domain": "www.skyscanner.com.br",
+    "path": "/",
+    "expires": 1746999643.749968,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "traveller_context",
+    "value": "895fe203-fe2a-43e2-b748-984aa0a51218",
+    "domain": "www.skyscanner.com.br",
+    "path": "/",
+    "expires": 1765834843.750046,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "__Secure-anon_token",
+    "value": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImM3ZGZlYjI2LTlmZjUtNDY4OC1iYjc3LWRiNTY2NWUyNjFkZSJ9.eyJhenAiOiIyNWM3MGZmZDAwN2JkOGQzODM3NyIsImh0dHBzOi8vc2t5c2Nhbm5lci5uZXQvbG9naW5UeXBlIjoiYW5vbnltb3VzIiwiaHR0cHM6Ly9za3lzY2FubmVyLm5ldC91dGlkIjoiODk1ZmUyMDMtZmUyYS00M2UyLWI3NDgtOTg0YWEwYTUxMjE4IiwiaHR0cHM6Ly9za3lzY2FubmVyLm5ldC9jc3JmIjoiYjNiMDgxYjFkN2YyYWVkMzU3Y2I3MjVhMDY1YjU2ZjgiLCJodHRwczovL3NreXNjYW5uZXIubmV0L2p0aSI6IjEwZmFkZTkxLTA5NzctNGIxNi05MGQ5LWI3YTA3ZmIyZjQyNyIsImlhdCI6MTczMTI3NDg0NSwiZXhwIjoxNzk0MzQ2ODQ1LCJhdWQiOiJodHRwczovL2dhdGV3YXkuc2t5c2Nhbm5lci5uZXQvaWRlbnRpdHkiLCJpc3MiOiJodHRwczovL3d3dy5za3lzY2FubmVyLm5ldC9zdHRjL2lkZW50aXR5L2p3a3MvcHJvZC8ifQ.ZaJYPzqY93lpvta4tT0jDVbqdXR0i5mfLIBNNcbpW42UWGqHgs9OxEOfQa5wRpZ4_UZ0HtZl8PWpFYptxfuhuOo0ZHcLEG1k1GRnG2ooOK6KfFlIQzjcyG4nQYn08J05DnfyA3B-N93sY1BEAg_4-jPUQRwRqPyebRqS1NOa1fAcWmIy__9KfdsilNk3WYIe4zKUEe5c_cYHt7uE1du9x-kO7VUjihuZCBad6UTfwgtabpM6UXZCVUKCzLKooCo2fHLhhYzNhH-Kzl4FDEessoBf50NtCe_pVcstudoD_9YsS3MhWmqfyS9WsKkh8hqMen-5-c7TwiCtvaSUmvyC8w",
+    "domain": "www.skyscanner.com.br",
+    "path": "/",
+    "expires": 1765834843.750094,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "__Secure-anon_csrf_token",
+    "value": "b3b081b1d7f2aed357cb725a065b56f8",
+    "domain": "www.skyscanner.com.br",
+    "path": "/",
+    "expires": 1765834843.750191,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "Strict"
+  },
+  {
+    "name": "ssab",
+    "value": "MAT_carhire_show_more_deals_V3:::b&PriceGridEntrypointInFSS_V2:::a&SmallerFqsTabsDesktop_V7:::a&TcsFareDrawer_V3:::b&USS_Experiment_Override_Test_V2:::a&append_encrypted_pixel_data_V2:::a&bacorn_single_server_V63:::a&car_hire_ranking_AA_web_V1:::b&enable_relevant_digital_prebid_V30:::a&fps_enrichements_desktop_V1:::a&fps_new_code_path_desktop_V1:::a&hops_mint_v3_hpa_desktop_V2:::a&hotel_ranking_stage1_dweb_V3:::a&mv_remove_tabs_V3:::b&price_alerts_runner_test_2_V0:::b&sam_008c37c343f54b79bcd451be32_V0:::b&sam_01bf849622c548969769238aa3_V0:::b&sam_0e263f842e584d7da714bcd2a8_V0:::a&sam_0f0129955a3c42dcaabd879725_V0:::a&sam_177b7079053a407c93bc207515_V0:::b&sam_1826aa8e61144660940eaedb02_V0:::b&sam_190c2b29645e441e8b3917b056_V0:::a&sam_24b5629ba2ab483893c21fff1c_V0:::b&sam_28d4901f53ae48eea780e6c384_V0:::b&sam_2c88cf7b842e49fa86346177f7_V0:::a&sam_33fe28c72909449a97144a82d5_V0:::b&sam_3a25acd8e3bb46e1841283ca7c_V0:::a&sam_3e94ad7c24334152966da5d028_V0:::a&sam_4254d3078a864c41893dd15ab0_V0:::b&sam_48ad71d58a724b65b6b8ce35fb_V0:::b&sam_531460b56af04c70ab6c74fd6e_V0:::b&sam_5467fcc428254b80920853a81e_V0:::a&sam_54f52ee076554da6b0cae3f76a_V0:::b&sam_56eef6d5bb224a779502332f9b_V0:::a&sam_59308f7fc276423aa8d82f83d7_V0:::a&sam_59c93e34512e4f9daeb155d32a_V0:::a&sam_5b6593509166413587b1161f42_V0:::a&sam_824b7024b07a4479af734f6d8f_V0:::b&sam_8a662d3e1e4144b7be8a0f1c7d_V0:::a&sam_8f49b691f0de4d08ad2ceecd03_V0:::a&sam_92f0fd3cc8104d77835c3e3ff6_V0:::a&sam_94f20809cc4f49c7935abcdfb9_V0:::b&sam_9665a6f49161473fac546636f8_V0:::b&sam_a3e96b4c06da4850affb7d2146_V0:::a&sam_a7502351b01a4c50821a2d3072_V0:::b&sam_ac60383b86ae4a17b5ed638b75_V0:::b&sam_af62a476118b4535a57c3b106e_V0:::a&sam_b147ff6a4ed14b2e916564ed06_V0:::a&sam_bf1b063368074ee59c63a466ad_V0:::b&sam_c2c28b789a1e4e848f8f9303d6_V0:::a&sam_c5a917d32370460bb2ba4d45a1_V0:::b&sam_cd0ac63374284f69926bd6882c_V0:::a&sam_d1660180420c430694599fe298_V0:::b&sam_ea1449d016be49fd9377b854c2_V0:::a&sam_fbce5323faa74978a3a20ea713_V0:::a&sam_fd469aec9acb4088bb1541c7e3_V0:::b&strevda_as_library_in_falcon_V6:::a&strevda_runtime_GC_wait_slot_V5:::a&strevda_runtime_as_library_V5:::a&terra_proxy_get_v1_entities_V12:::a&terra_proxy_get_v2_entities_V27:::a&terra_proxy_post_v2_search_V9:::a&wordpress_migration_proxy_V15:::a",
+    "domain": "www.skyscanner.com.br",
+    "path": "/",
+    "expires": 1733866843.750237,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "ssculture",
+    "value": "locale:::pt-BR&market:::BR&currency:::BRL",
+    "domain": "www.skyscanner.com.br",
+    "path": "/",
+    "expires": 1746826843.750331,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "experiment_allocation_id",
+    "value": "856a6549f73e616b3f33e8cd6d56f335f8ff17421848ebc9e27f6b1c238d4208",
+    "domain": "www.skyscanner.com.br",
+    "path": "/",
+    "expires": 1765834843.750412,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "ssaboverrides",
+    "value": "",
+    "domain": "www.skyscanner.com.br",
+    "path": "/",
+    "expires": 1731318043.750455,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "abgroup",
+    "value": "27920946",
+    "domain": "www.skyscanner.com.br",
+    "path": "/",
+    "expires": 1733694043.750492,
+    "httpOnly": true,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "__Secure-ska",
+    "value": "16f14598-f81f-4a72-87a9-3fe857c4fd74",
+    "domain": "www.skyscanner.com.br",
+    "path": "/",
+    "expires": 1765834843.750531,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "device_guid",
+    "value": "16f14598-f81f-4a72-87a9-3fe857c4fd74",
+    "domain": "www.skyscanner.com.br",
+    "path": "/",
+    "expires": 1765834843.750573,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "QSI_S_ZN_0VDsL2Wl8ZAlxlA",
+    "value": "v:0:0",
+    "domain": "www.skyscanner.com.br",
+    "path": "/",
+    "expires": 1731879645,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "pxcts",
+    "value": "71c339af-9fac-11ef-98d7-e61d2b145639",
+    "domain": "www.skyscanner.com.br",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "_pxvid",
+    "value": "70f6628f-9fac-11ef-81d3-c8b7d06fd83a",
+    "domain": "www.skyscanner.com.br",
+    "path": "/",
+    "expires": 1762810845,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "_gcl_au",
+    "value": "1.1.1560248466.1731274846",
+    "domain": ".skyscanner.com.br",
+    "path": "/",
+    "expires": 1739050846,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "_ga",
+    "value": "GA1.1.762612633.1731274847",
+    "domain": ".skyscanner.com.br",
+    "path": "/",
+    "expires": 1765834846.735068,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "_ga_XEEM7L2YCB",
+    "value": "GS1.1.1731274846.1.1.1731274846.0.0.1783746509",
+    "domain": ".skyscanner.com.br",
+    "path": "/",
+    "expires": 1765834846.796509,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "ar_debug",
+    "value": "1",
+    "domain": ".doubleclick.net",
+    "path": "/",
+    "expires": 1733866847.397137,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "receive-cookie-deprecation",
+    "value": "1",
+    "domain": ".doubleclick.net",
+    "path": "/",
+    "expires": 1746826847.398532,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "IDE",
+    "value": "AHWqTUk62QEd9KRoU26WBvz6Ntuy9Mq1EWdEfbdKkOGFArHtS03Y6nnbfCgtVwWL",
+    "domain": ".doubleclick.net",
+    "path": "/",
+    "expires": 1765834848.423758,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "uid",
+    "value": "a420c1d5-ed63-4459-9b14-7017ac357496",
+    "domain": ".criteo.com",
+    "path": "/",
+    "expires": 1764970848.617202,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "receive-cookie-deprecation",
+    "value": "1",
+    "domain": ".criteo.com",
+    "path": "/",
+    "expires": 1764970848.617349,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "cto_bundle",
+    "value": "9pUvBF9kVXBJUnBNSldaR0QlMkJYUXI0aVVrMGluaDV0TDclMkI4MnpGWGNmRllvd3M5dVNBN0lFMU5SN3RiWEZUQVVOc083JTJCZWZqUkZVYVdWN3dUYzZvTEhyaTFBbHgzZzRUTzdMTzhPZzNOVyUyRjhZWjdLNWJLOXRjazBQVnB4Y1UlMkJIR0lIQzR1YmtzVHZjckJEelFycWlaUmRocU5RJTNEJTNE",
+    "domain": ".criteo.com",
+    "path": "/",
+    "expires": 1764970849.152221,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "cto_bundle",
+    "value": "f1az7F9LSURYTmRrcVliZWpkaSUyRm9rYVJRNXNSRUM4ciUyQmZuU0JSWVpqT0RMd3NuZUVIeWt4VWdvSTZROGlFQ3dzTFJxREJmcUhNQ1l2dTFuJTJGSE5zMzRBbGhTNVIlMkZsZHVkN0tnbDRpRUIyeVMxUUY1N05SN3FJVlQ2c000eEZDam1ZYlBVVWl4TGlXNllFWEx4SEJQejdOUSUyRlI5MXh6UGJsbk05cHM5TVRHT2pWOWJVJTNE",
+    "domain": ".skyscanner.com.br",
+    "path": "/",
+    "expires": 1765438849,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "scanner",
+    "value": "currency:::BRL&legs:::SSA||REC&tripType:::one-way&rtn:::false&preferDirects:::false&outboundAlts:::false&inboundAlts:::false&from:::SSA&to:::REC",
+    "domain": "www.skyscanner.com.br",
+    "path": "/",
+    "expires": 1732138861,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "Lax"
+  }
+]

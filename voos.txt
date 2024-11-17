@@ -1,0 +1,56 @@
+REC - FEN
+REC - CNF
+
+
+Internacionais
+
+Aeroporto Internacional de Budapeste: BUD
+
+Milão, Itália
+Aeroporto Internacional de Malpensa: MXP
+Aeroporto de Linate: LIN
+Aeroporto de Bergamo (Orio al Serio): BGY
+
+Viena, Áustria
+Aeroporto Internacional de Viena: VIE
+
+Lima, Peru
+Aeroporto Internacional Jorge Chávez: LIM
+
+Buenos Aires, Argentina
+Aeroporto Internacional Ministro Pistarini (Ezeiza): EZE
+Aeroparque Jorge Newbery: AEP
+
+Zurique, Suíça
+Aeroporto Internacional de Zurique: ZRH
+-------------------------------------------
+Nacionais
+
+Tocantins - PMW
+
+Salvador, Bahia
+Aeroporto Internacional de Salvador: SSA
+
+Foz do Iguaçu, Paraná
+Aeroporto Internacional de Foz do Iguaçu: IGU
+
+Manaus, Amazonas
+Aeroporto Internacional Eduardo Gomes: MAO
+
+Maragogi, Alagoas
+Aeroporto Internacional de Maceió: MCZ
+
+Rio Grande do Sul
+Aeroporto Salgado Filho (Porto Alegre): POA
+Aeroporto Hugo Cantergiani (Caxias do Sul): CXJ
+
+Rio de Janeiro, Rio de Janeiro
+Aeroporto Internacional do Galeão: GIG
+Aeroporto Santos Dumont: SDU
+
+Recife, Pernambuco
+Aeroporto Internacional dos Guararapes: REC
+
+São Paulo, São Paulo
+Aeroporto Internacional de Guarulhos: GRU
+Aeroporto de Congonhas: CGH
