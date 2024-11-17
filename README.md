@@ -30,7 +30,7 @@ Ferramentas de scraping configuradas (se for necessário acessar dados dinâmico
 Como Configurar o Projeto
 
 Clone o repositório:
-git clone <URL_DO_REPOSITÓRIO>
+git clone https://github.com/jeffersonaandrade/botSky.git
 
 Navegue para o diretório do projeto:
 cd nome-do-projeto
