@@ -1,5 +1,6 @@
 # Ignorar a pasta `node_modules`
 node_modules/
+.vscode
 
 # Ignorar arquivos de configuração locais
 .env
