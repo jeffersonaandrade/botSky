@@ -32,8 +32,6 @@ Como Configurar o Projeto
 Clone o repositório:
 git clone https://github.com/jeffersonaandrade/botSky.git
 
-Navegue para o diretório do projeto:
-cd nome-do-projeto
 Instale as dependências:
 npm install
 
