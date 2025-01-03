@@ -37,5 +37,5 @@ npm install
 
 
 Inicie o servidor:
-node testCookies.js
+nnode avaliationTicket.js
 
