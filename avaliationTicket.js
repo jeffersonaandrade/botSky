@@ -37,10 +37,14 @@ const vooVoltaPath = path.join(__dirname, 'vooVolta.json');
 
 // Obtem as 5 melhores ofertas de ida e o valor médio
 const { topFiveCheapFlights: topFiveIda, averagePrice: averagePriceIda } = getTopFiveCheapFlights(vooIdaPath);
+console.log('---------------- INFORMAÇÕES DE IDA ----------------')
 console.log("Top 5 ofertas de ida mais baratas:", topFiveIda);
 console.log("Valor médio das passagens de ida:", averagePriceIda.toFixed(2));
 
 // Obtem as 5 melhores ofertas de volta e o valor médio
 const { topFiveCheapFlights: topFiveVolta, averagePrice: averagePriceVolta } = getTopFiveCheapFlights(vooVoltaPath);
+console.log('---------------- INFORMAÇÕES DE VOLTA ----------------')
 console.log("Top 5 ofertas de volta mais baratas:", topFiveVolta);
 console.log("Valor médio das passagens de volta:", averagePriceVolta.toFixed(2));
+console.log(`Valor médio de ida e volta: ${(averagePriceVolta+averagePriceIda).toFixed(2)}`)
+console.log('---------------- FIM DO PROCESSO. ----------------')
